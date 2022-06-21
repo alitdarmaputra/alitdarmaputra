@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/016/532/222/original/lennart-butz-japan-12.gif?1552504264)](https://rishavchanda.io)
+[![MasterHead](https://github.com/alitdarmaputra/alitdarmaputra/blob/main/ezgif.com-gif-maker.gif)]()
 <h1 align="center">Hi 👋, I'm Alit Darma Putra</h1>
 <h3 align="center">A passionate backend developer from Bali</h3>
 <img align="right" width=400 src="https://static.wixstatic.com/media/13bf17_ac92708513ee46809bce0b7f975e952d~mv2.png/v1/fill/w_1920,h_1080,al_c/13bf17_ac92708513ee46809bce0b7f975e952d~mv2.png" alt="coding gif">
