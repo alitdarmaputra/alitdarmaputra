@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alit Darma Putra</h1>
 <h3 align="center">A passionate backend developer from Bali</h3>
-<img align="right" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" alt="coding gif" title="code_ilustrate">
+<img align="right" width=400 src="https://static.wixstatic.com/media/13bf17_ac92708513ee46809bce0b7f975e952d~mv2.png/v1/fill/w_1920,h_1080,al_c/13bf17_ac92708513ee46809bce0b7f975e952d~mv2.png" alt="coding gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alitdarmaputra&label=Profile%20views&color=0e75b6&style=flat" alt="alitdarmaputra" /> </p>
 
