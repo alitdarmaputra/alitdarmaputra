@@ -3,7 +3,7 @@
 <h3 align="center">CS Student Interested in Backend</h3>
 <img align="right" width=400 src="https://static.wixstatic.com/media/13bf17_ac92708513ee46809bce0b7f975e952d~mv2.png/v1/fill/w_1920,h_1080,al_c/13bf17_ac92708513ee46809bce0b7f975e952d~mv2.png" alt="coding gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alitdarmaputra&label=Profile%20views&color=0e75b6&style=flat" alt="alitdarmaputra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alitdarmaputra&label=Profile%20views&color=0e75b6&style=flat" alt="alitdarmaputra" />  <img src="https://www.codewars.com/users/alitdarmaputra/badges/micro" /></p>
 
 - 🌱 I’m currently learning **NodeJS, Tailwind, Go**
 
